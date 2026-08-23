@@ -1,5 +1,3 @@
----
-
 ```markdown
 anordinaryusername@github
 -------------------------
@@ -25,5 +23,3 @@ Discord: RandomPotato#1377
 >
 > ― ***John von Neumann***
 ```
-
----
