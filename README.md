@@ -10,12 +10,9 @@ Banco de Dados: MySQL, MongoDB, NoSQL
 Ferramentas: Git, GitHub, Linux, Windows, REST APIs, VS Code
 Aprendendo: React Native, Arquitetura de software, Design Patterns
 Outros: Scrum, Kanban, Metodologias ágeis
-
+```
 
 > [!WARNING]
-> Man cannot obtain anything without first sacrificing something. In order to
-> obtain anything, something of equal value is required. That is
-> _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
-> the true way of the world.
+> "O computador faz o que você manda, não o que você quer."
 >
-> ― ***Alphonse Elric***
+> — Samuel Silva
