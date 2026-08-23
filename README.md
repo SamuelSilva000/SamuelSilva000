@@ -15,10 +15,9 @@ Banco de Dados: MySQL, MongoDB, NoSQL
 Ferramentas   : Git, GitHub, Linux, Windows, REST APIs, VS Code
 Aprendendo    : React Native, Arquitetura de software, Design Patterns
 Outros        : Scrum, Kanban, Metodologias ágeis
+```
 
----
-
-[!WARNING]
-"O computador faz o que você manda, não o que você quer."
-
-— Samuel Silva
+> [!WARNING]
+> "O computador faz o que você manda, não o que você quer."
+>
+> — Samuel Silva
