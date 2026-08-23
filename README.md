@@ -9,10 +9,10 @@ Systems: Win, Linux
 Databases: MySQL, MongoDB
 Learning: React, React Native
 Languages: Java, JS, TS, Node, HTML, CSS
-Idiomas: Inglês (Intermediário), Espanhol (Básico)
+I-Speak: Portuguese, English, and Spanish
+Skills: REST, JWT, JPA, Scrum, Agile, JUnit, Jest
 Frameworks: Spring Boot, Angular, React, React Native
-Skills: REST APIs, JWT, Hibernate/JPA, Scrum, Agile, JUnit, Jest
-Tools: Git, GitHub, Docker, VS Code, Spring Tools, Figma, Office365
+Tools: Git, GitHub, Docker, VSCode, Spring, Figma, Office365
 ```
 <td valign="top">
 
