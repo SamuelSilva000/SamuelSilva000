@@ -7,7 +7,6 @@ samuelsilva000@github
 ---------------------
 Systems: Win, Linux
 Databases: MySQL, MongoDB
-Learning: React, React Native
 Languages: Java, JS, TS, Node, HTML, CSS
 I-Speak: Portuguese, English, and Spanish
 Skills: REST, JWT, JPA, Scrum, Agile, JUnit, Jest
