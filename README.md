@@ -1,23 +1,20 @@
-⚙️ **Uso diariamente:**  
-`Java` · `Spring Boot` · `Node.js` · `Angular` · `React Native` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Git` · `Linux` · `Windows` · `REST APIs` · `MySQL` · `MongoDB` · `VS Code`
-
----
-
-```csharp
 samuelsilva@github
 -------------------
-SO            : Linux (Ubuntu/Mint) · Windows 11
-Shell         : bash 5.8
-Função        : Desenvolvedor Full-Stack (foco mobile)
-Linguagens    : Java, JavaScript, TypeScript, HTML, CSS
-Frameworks    : Spring Boot, Angular, React Native, Node.js
-Banco de Dados: MySQL, MongoDB, NoSQL
-Ferramentas   : Git, GitHub, Linux, Windows, REST APIs, VS Code
-Aprendendo    : React Native, Arquitetura de software, Design Patterns
-Outros        : Scrum, Kanban, Metodologias ágeis
-```
-
-> [!WARNING]
-> "O computador faz o que você manda, não o que você quer."
->
-> — Samuel Silva
+OS: Windows / Linux
+Shell: zsh / bash
+Pronouns: Ele/Dele
+Location: São Paulo, SP
+Objetivo: Estágio em tecnologia
+Formação: Análise e Desenvolvimento de Sistemas – SENAC Santo Amaro (2025–2027)
+          Técnico em Administração – ETEC C. C. Sampaio (2023)
+Experiência: Auxiliar Administrativo – Livraria Saraiva (abr 2023–out 2023)
+             Jardineiro Autônomo (fev 2024–atual)
+Frameworks: Spring Boot, AngularJS, Node.js
+Linguagens: Java, JavaScript, HTML, CSS, SQL
+Banco de Dados: MySQL, NoSQL
+Ferramentas: Git, GitHub, npm, VS Code, Spring Tool Suite, Figma, Office 365
+Learning: Node.js, Express, PostgreSQL, Three.js, C++
+Idiomas: Inglês intermediário | Espanhol básico
+Hobbies: Gardening, Cooking, Gaming
+Portfólio: github.com/SamuelSilva000
+Contato: samuelsilva.reis2625@gmail.com | (11) 95759-5256
