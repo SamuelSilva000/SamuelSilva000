@@ -16,9 +16,9 @@ Skills: REST APIs, JWT, JPA, Scrum, Agile, JUnit, Jest
 <td valign="top">
 
 > [!NOTE]
-> "Podia parecer que chegamos ao limite do que era possível alcançar com a
-> tecnologia dos computadores, contudo, uma pessoa deveria ser cuidadosa
-> com tais afirmações, pois tendem a soar muito tontas em 5 anos."
+> Poderia parecer que alcançamos os limites do que é possível alcançar com a
+> tecnologia de computadores, embora se deva ter cuidado com tais afirmações,
+> pois elas tendem a soar bastante tolas em 5 anos.
 >
 > ― ***John von Neumann***
 
