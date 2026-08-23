@@ -1,4 +1,6 @@
-```csharp
+---
+
+```markdown
 anordinaryusername@github
 -------------------------
 OS: Arch Linux x86_64
@@ -18,9 +20,10 @@ Discord: RandomPotato#1377
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 
-> [!WARNING]
-> Podia parecer que chegamos ao limite do que era possível alcançar com a 
-> tecnologia dos computadores, contudo, uma pessoa deveria ser cuidadosa
-> com tais afirmações, pois tendem a soar muito tontas em 5 anos.
+> [!TIP]
+> Lembre-se: o computador faz exatamente o que você manda, não o que você quer.
 >
 > ― ***John von Neumann***
+```
+
+---
