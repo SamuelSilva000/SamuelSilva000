@@ -22,4 +22,3 @@ Discord: RandomPotato#1377
 > Lembre-se: o computador faz exatamente o que você manda, não o que você quer.
 >
 > ― ***John von Neumann***
-```
