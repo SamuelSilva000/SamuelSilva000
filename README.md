@@ -1,49 +1,43 @@
-# // samuel.dev
+# Samuel Silva dos Reis
 
-> **"O computador faz o que você manda, não o que você quer."**
-
----
-
-## Sobre
-
-Estudante de **Análise e Desenvolvimento de Sistemas** · 4º semestre · **SENAC**
-
-Focado em transformar lógica em soluções funcionais. Atualmente explorando o ecossistema mobile com **React** e **React Native**, enquanto solidifico bases sólidas em **Java**, **Spring Boot** e **Node.js**.
+> ADS · 4º semestre · SENAC  
+> React Native · Spring · Node · Linux
 
 ---
 
-## Habilidades Técnicas
-
-| Categoria          | Tecnologias                                    |
-|--------------------|------------------------------------------------|
-| **Linguagens**     | Java · JavaScript · TypeScript · SQL           |
-| **Frameworks**     | Spring Boot · React · React Native · AngularJS |
-| **Ferramentas**    | Git · GitHub · Linux · Docker · Figma          |
-| **Banco de Dados** | MySQL · PostgreSQL                              |
+“O computador faz o que você manda, não o que você quer.”
 
 ---
 
-## Experiência & Formação
+### Sobre
 
-- **Estudante de ADS** – SENAC Santo Amaro (2025–2027)
-- **Técnico em Administração** – ETEC C. C. Sampaio (2023)
-- **Auxiliar Administrativo** – Livraria Saraiva (Abr–Out 2023)
-- **Gestão autônoma** – Jardineiro (2024–atual)
-
----
-
-## Contato
-
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/SamuelSilva000)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+Estudante de Análise e Desenvolvimento de Sistemas.  
+Back-end com Java, Spring Boot e Node.js.  
+Front-end com Angular e React (mobile com React Native).  
+APIs REST, bancos SQL e NoSQL, Git, Linux.
 
 ---
 
-## Filosofia
+### Tecnologias
 
-> *“A simplicidade é a sofisticação final.”*  
-> — **Leonardo da Vinci** (talvez, mas combina)
+Java · Spring Boot · Node.js · Angular · React · React Native · MySQL · NoSQL · Git · GitHub · Linux · REST APIs
 
 ---
 
-**"Nunca se esqueça: o computador faz o que você manda, não o que você quer."**
+### Projetos em destaque
+
+- [E‑commerce de calçados](https://github.com/SamuelSilva000/ecommerce-calcados) – Spring + Angular  
+- [E‑commerce de roupas](https://github.com/SamuelSilva000/ecommerce-roupas) – Spring + Angular  
+- [E‑commerce de carros](https://github.com/SamuelSilva000/ecommerce-carros) – HTML/CSS/JS  
+- [Sistema de cadastro escolar](https://github.com/SamuelSilva000/sistema-cadastro-escolar) – Spring + Thymeleaf  
+
+---
+
+### Contato
+
+samuelsilva.reis2625@gmail.com  
+[github.com/SamuelSilva000](https://github.com/SamuelSilva000)
+
+---
+
+*Menos ruído, mais código.*
