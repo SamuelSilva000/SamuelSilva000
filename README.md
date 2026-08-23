@@ -17,8 +17,8 @@ Tools: Git, GitHub, Docker, VS Code, Spring Tools, Figma, Office365
 <td valign="top">
 
 <blockquote>
-  <p><strong>⚠️ Warning:</strong> Man cannot obtain anything without first sacrificing something. In order to obtain anything, something of equal value is required. That is <em>Alchemy's Law of Equivalent Exchange</em>. At the time we believed that to be the true way of the world.</p>
-  <p>― <strong>Alphonse Elric</strong></p>
+  <p><strong>LEMBRE-SE:</strong> "Podia parecer que chegamos ao limite do que era possível alcançar com a tecnologia dos computadores, contudo, uma pessoa deveria ser cuidadosa com tais afirmações, pois tendem a soar muito tontas em 5 anos."</p>
+  <p>― <strong>John von Neumann</strong></p>
 </blockquote>
 
 </td>
