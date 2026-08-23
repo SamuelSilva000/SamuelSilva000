@@ -5,13 +5,15 @@
 ```csharp
 samuelsilva000@github
 ---------------------
-Systems: Win, Linux
+samuelsilva000@github
+---------------------
+Systems: Windows, Linux
 Databases: MySQL, MongoDB
-Languages: Java, JS, TS, Node, HTML, CSS
-I-Speak: Portuguese, English, and Spanish
-Skills: REST, JWT, JPA, Scrum, Agile, JUnit, Jest
+Spoken: Portuguese, English, Spanish
+Tools: Git, GitHub, Docker, VS Code, Maven
 Frameworks: Spring Boot, Angular, React, React Native
-Tools: Git, GitHub, Docker, VSCode, Spring, Maven, Node
+Skills: REST APIs, JWT, JPA, Scrum, Agile, JUnit, Jest
+Languages: Java, JavaScript, TypeScript, Node.js, HTML, CSS
 ```
 <td valign="top">
 
