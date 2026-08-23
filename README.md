@@ -1,37 +1,21 @@
-# `anordinaryusername`
-
-> **Developer · Designer · Creator**
-
-```text
-OS        Arch Linux x86_64        SHELL     zsh 5.8
-LOCATION  Artesia, CA             PRONOUNS  He/Him
-```
-
-### ⚙️ Stack
-
-`PHP` `JavaScript` `TypeScript` `HTML` `CSS` `SVG` `PSD` `AI`
-
-### ⚡ Frameworks
-
-`React`
-
-### 🧪 Learning
-
-`Node.js` `Express` `PostgreSQL` `Three.js` `C++`
-
-### ◈ Elsewhere
-
-`968` commits · `14` stars · `RandomPotato#1377`
-
-### ◌ Hobbies
-
-`🌱 Gardening` · `🍳 Cooking` · `🎮 Gaming`
+⚙️ **Uso diariamente:**  
+`Java` · `Spring Boot` · `Node.js` · `Angular` · `React Native` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Git` · `Linux` · `Windows` · `REST APIs` · `MySQL` · `MongoDB` · `VS Code`
 
 ---
 
-> [!WARNING]
-> Man cannot obtain anything without first sacrificing something. In order to
-> obtain anything, something of equal value is required. That is
-> *Alchemy's Law of Equivalent Exchange*.
->
-> ― ***Alphonse Elric***
+```csharp
+samuelsilva@github
+-------------------
+SO            : Linux (Ubuntu/Mint) · Windows 11
+Shell         : bash 5.8
+Função        : Desenvolvedor Full-Stack (foco mobile)
+Linguagens    : Java, JavaScript, TypeScript, HTML, CSS
+Frameworks    : Spring Boot, Angular, React Native, Node.js
+Banco de Dados: MySQL, MongoDB, NoSQL
+Ferramentas   : Git, GitHub, Linux, Windows, REST APIs, VS Code
+Aprendendo    : React Native, Arquitetura de software, Design Patterns
+Outros        : Scrum, Kanban, Metodologias ágeis
+[!WARNING]
+"O computador faz o que você manda, não o que você quer."
+
+— Samuel Silva
