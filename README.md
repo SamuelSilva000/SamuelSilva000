@@ -9,9 +9,9 @@ Systems: Windows, Linux
 Databases: MySQL, MongoDB
 Spoken: Portuguese, English, Spanish
 Tools: Git, GitHub, Docker, VS Code, Maven
+Languages: Java, JavaScript, TypeScript, HTML, CSS
 Frameworks: Spring Boot, Angular, React, React Native
 Skills: REST APIs, JWT, JPA, Scrum, Agile, JUnit, Jest
-Languages: Java, JavaScript, TypeScript, Node.js, HTML, CSS
 ```
 <td valign="top">
 
