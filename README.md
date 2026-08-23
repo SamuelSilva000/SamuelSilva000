@@ -1,5 +1,3 @@
-### Olá 👋
-
 #### Desenvolvedor back-end e mobile em formação
 
 Estudante de ADS · 4º semestre · SENAC  
