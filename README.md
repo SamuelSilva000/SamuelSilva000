@@ -1,15 +1,12 @@
-# samuelsiva000@github
-
-- **OS:** Arch Linux x86_64
-- **Pronouns:** Ele/Dele
-- **Location:** São Paulo, SP
-- **Frameworks:** React
-- **Languages:** JS, TS, HTML, CSS
-- **Learning:** React, React Native
-- **Hobbies:** Gardening, Cooking, Gaming
-- **Discord:** RandomPotato#1377
-
-**⚙️ Uso diário:** `.ts`, `.js`, `.html`, `.css`
-
-> [!TIP]
-> Lembre-se: O computador vai fazer o que você mandar ele fazer, não o que você quer que ele faça.
+```csharp
+samuelsilva000@github
+--------------------------------------
+Systems: Win, Linux
+DB: MySQL, MongoDB
+Learning: React, React Native
+Languages: Java, Node, HTML, CSS
+Idiomas: Inglês (Intermediário), Espanhol (Básico)
+Frameworks: Spring Boot, Angular, React, React Native
+Skills: REST APIs, JWT, Hibernate/JPA, Scrum, Agile, JUnit, Jest
+Tools: Git, GitHub, Docker, VS Code, Spring Tools, Figma, Office 365
+```
