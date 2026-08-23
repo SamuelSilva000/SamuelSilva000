@@ -12,16 +12,15 @@ Languages: Java, JS, TS, Node, HTML, CSS
 I-Speak: Portuguese, English, and Spanish
 Skills: REST, JWT, JPA, Scrum, Agile, JUnit, Jest
 Frameworks: Spring Boot, Angular, React, React Native
-Tools: Git, GitHub, Docker, VSCode, Spring, Figma, Office365
+Tools: Git, GitHub, Docker, VSCode, Spring, Maven, Node
 ```
 <td valign="top">
 
-> [!WARNING]
-> Man cannot obtain anything without first sacrificing something. In order to
-> obtain anything, something of equal value is required. That is
-> _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
-> the true way of the world.
+> [!NOTE]
+> Podia parecer que chegamos ao limite do que era possível alcançar com a
+> tecnologia dos computadores, contudo, uma pessoa deveria ser cuidadosa
+> com tais afirmações, pois tendem a soar muito tontas em 5 anos.
 >
-> ― ***Alphonse Elric***
+> ― ***John von Neumann***
 
 </td>
