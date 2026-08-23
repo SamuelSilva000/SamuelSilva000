@@ -1,89 +1,63 @@
-# 👨‍💻 anordinaryusername
+<div align="center">
+  <h1>👋 Olá, eu sou @samuelsiva000</h1>
+  <p>
+    <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Localização-São_Paulo%2C_SP-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Pronomes-Ele%2FDele-4B8BBE?style=for-the-badge" />
+  </p>
+</div>
 
-```csharp
-using System;
-using System.Linq;
+---
 
-namespace GitHubProfile
-{
-    public sealed class DeveloperProfile
-    {
-        public string   Username    { get; } = "anordinaryusername";
-        public string   Platform    { get; } = "GitHub";
-        public string   OS          { get; } = "Arch Linux x86_64";
-        public string   Shell       { get; } = "zsh 5.8";
-        public string   Pronouns    { get; } = "He/Him";
-        public string   Location    { get; } = "Artesia, CA";
-        public string[] Frameworks  { get; } = { "React" };
-        public string[] Languages   { get; } = { "JavaScript", "TypeScript", "HTML", "CSS" };
-        public string[] Learning    { get; } = { "Node.js", "Express", "PostgreSQL", "Three.js", "CPP" };
-        public string[] Hobbies     { get; } = { "Gardening", "Cooking", "Gaming" };
-        public int      Commits     { get; } = 968;
-        public int      Stars       { get; } = 14;
-        public string   Discord     { get; } = "RandomPotato#1377";
-        public string[] DailyTools  { get; } = { ".php", ".js", ".html", ".css", ".svg", ".psd", ".ai" };
+## 📋 Sobre Mim
 
-        public void PrintProfile()
-        {
-            var lines = new[]
-            {
-                $"Username   : {Username}",
-                $"Platform   : {Platform}",
-                $"OS         : {OS}",
-                $"Shell      : {Shell}",
-                $"Pronouns   : {Pronouns}",
-                $"Location   : {Location}",
-                $"Frameworks : {string.Join(", ", Frameworks)}",
-                $"Languages  : {string.Join(", ", Languages)}",
-                $"Learning   : {string.Join(", ", Learning)}",
-                $"Hobbies    : {string.Join(", ", Hobbies)}",
-                $"Commits    : {Commits}",
-                $"Stars      : {Stars}",
-                $"Discord    : {Discord}",
-                $"Daily Tools: {string.Join(", ", DailyTools)}"
-            };
+| 🔹 Campo | 🔸 Detalhe |
+|----------|------------|
+| 🐧 **Sistema Operacional** | Arch Linux x86_64 |
+| 🗣️ **Pronomes** | Ele/Dele |
+| 📍 **Localização** | São Paulo, SP |
+| ⚛️ **Framework** | React |
+| 💻 **Linguagens** | JavaScript, TypeScript, HTML, CSS |
+| 📚 **Aprendendo** | React, React Native |
+| 🌱 **Hobbies** | Jardinagem, Culinária, Jogos |
+| 🎧 **Discord** | RandomPotato#1377 |
 
-            int maxLength = lines.Max(l => l.Length);
-            int totalWidth = maxLength + 4; // 2 espaços + 2 bordas
-            string horizontal = new string('═', totalWidth - 2);
+---
 
-            Console.WriteLine($"╔{horizontal}╗");
-            foreach (string line in lines)
-                Console.WriteLine($"║ {line.PadRight(maxLength)} ║");
-            Console.WriteLine($"╚{horizontal}╝");
-        }
-    }
+## 🛠️ Tecnologias e Ferramentas
 
-    public static class Program
-    {
-        public static void Main()
-        {
-            new DeveloperProfile().PrintProfile();
-        }
-    }
-}
-```
+**Uso diário:**
+- TypeScript (`.ts`)
+- JavaScript (`.js`)
+- HTML (`.html`)
+- CSS (`.css`)
 
-### 🖥️ Saída esperada
+**Stack principal:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║ Username   : anordinaryusername                              ║
-║ Platform   : GitHub                                          ║
-║ OS         : Arch Linux x86_64                               ║
-║ Shell      : zsh 5.8                                         ║
-║ Pronouns   : He/Him                                          ║
-║ Location   : Artesia, CA                                     ║
-║ Frameworks : React                                           ║
-║ Languages  : JavaScript, TypeScript, HTML, CSS               ║
-║ Learning   : Node.js, Express, PostgreSQL, Three.js, CPP     ║
-║ Hobbies    : Gardening, Cooking, Gaming                      ║
-║ Commits    : 968                                             ║
-║ Stars      : 14                                              ║
-║ Discord    : RandomPotato#1377                               ║
-║ Daily Tools: .php, .js, .html, .css, .svg, .psd, .ai         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+---
+
+## 🌱 Atualmente Aprendendo
+- ⚛️ React
+- 📱 React Native
+
+---
+
+## 🎯 Hobbies
+- 🌻 Jardinagem
+- 🍳 Culinária
+- 🎮 Jogos
+
+---
+
+## 📫 Contato
+- **Discord:** `RandomPotato#1377`
+
+---
 
 > [!TIP]
-> Lembre-se: o computador faz exatamente o que você manda, não o que você quer.
+> **Lembre-se:** O computador vai fazer o que você mandar ele fazer, não o que você quer que ele faça.
