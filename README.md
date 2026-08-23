@@ -5,8 +5,6 @@
 ```csharp
 samuelsilva000@github
 ---------------------
-samuelsilva000@github
----------------------
 Systems: Windows, Linux
 Databases: MySQL, MongoDB
 Spoken: Portuguese, English, Spanish
