@@ -1,57 +1,49 @@
-# Samuel Silva dos Reis
+# // samuel.dev
 
-*Estudante de ADS · 4º semestre · SENAC*  
-*Aprendendo mobile com React & React Native*
-
----
-
-> *Quidquid latine dictum sit, altum sonatur.*  
-
-O computador faz o que você manda, não o que você quer.  
-GIGO – *Garbage In, Garbage Out*.  
-A IA não faz mágica; ela amplifica sua criatividade, mas não a substitui.
-
-> *“Teremos menos, porém melhores programadores.”* – Cardoso
+> **"O computador faz o que você manda, não o que você quer."**
 
 ---
 
-## 💻 O que eu faço
+## Sobre
 
-- **Back-end**: Java, Spring Boot, Node.js, APIs REST  
-- **Front-end**: Angular, HTML, CSS, JavaScript  
-- **Mobile**: React Native (em estudo)  
-- **Banco de dados**: MySQL, NoSQL  
-- **Ferramentas**: Git, GitHub, VS Code, Linux, Figma  
+Estudante de **Análise e Desenvolvimento de Sistemas** · 4º semestre · **SENAC**
+
+Focado em transformar lógica em soluções funcionais. Atualmente explorando o ecossistema mobile com **React** e **React Native**, enquanto solidifico bases sólidas em **Java**, **Spring Boot** e **Node.js**.
 
 ---
 
-## 📦 Projetos que mostram o que sei
+## Habilidades Técnicas
 
-- [E-commerce de calçados](https://github.com/SamuelSilva000/ecommerce-calcados) – Spring Boot + Angular  
-- [E-commerce de roupas](https://github.com/SamuelSilva000/ecommerce-roupas) – Spring Boot + Angular  
-- [E-commerce de carros](https://github.com/SamuelSilva000/ecommerce-carros) – HTML/CSS/JS puro  
-- [Sistema de cadastro escolar](https://github.com/SamuelSilva000/sistema-cadastro-escolar) – Spring Boot + Thymeleaf  
-
-🔗 [Todos os repositórios](https://github.com/SamuelSilva000)
-
----
-
-## 🧠 Filosofia pessoal
-
-> *“Ninniku Seishin”* – suportar insultos com paciência e humildade; deixar que passem como um rio sobre uma pedra.
-
-Foco no que controlo. Equilíbrio. Humildade intelectual.  
-Menos barulho, mais ação.  
-Não compre sua personalidade.
+| Categoria          | Tecnologias                                    |
+|--------------------|------------------------------------------------|
+| **Linguagens**     | Java · JavaScript · TypeScript · SQL           |
+| **Frameworks**     | Spring Boot · React · React Native · AngularJS |
+| **Ferramentas**    | Git · GitHub · Linux · Docker · Figma          |
+| **Banco de Dados** | MySQL · PostgreSQL                              |
 
 ---
 
-## 📫 Onde me encontrar
+## Experiência & Formação
 
-- **E-mail**: samuelsilva.reis2625@gmail.com  
-- **GitHub**: [SamuelSilva000](https://github.com/SamuelSilva000)  
-- **LinkedIn**: (se tiver, coloque o link)
+- **Estudante de ADS** – SENAC Santo Amaro (2025–2027)
+- **Técnico em Administração** – ETEC C. C. Sampaio (2023)
+- **Auxiliar Administrativo** – Livraria Saraiva (Abr–Out 2023)
+- **Gestão autônoma** – Jardineiro (2024–atual)
 
 ---
 
-*Feito com código limpo e pouca paciência para mediocridade.*
+## Contato
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/SamuelSilva000)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+
+---
+
+## Filosofia
+
+> *“A simplicidade é a sofisticação final.”*  
+> — **Leonardo da Vinci** (talvez, mas combina)
+
+---
+
+**"Nunca se esqueça: o computador faz o que você manda, não o que você quer."**
