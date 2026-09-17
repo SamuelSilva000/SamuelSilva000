@@ -12,6 +12,7 @@ Tools: Git, GitHub, Docker, VS Code, Maven
 Languages: Java, JavaScript, TypeScript, HTML, CSS
 Frameworks: Spring Boot, Angular, React, React Native
 Skills: REST APIs, JWT, JPA, Scrum, Agile, JUnit, Jest
+</table>
 
 </td> </tr> <tr> <td valign="top">
 [!NOTE]
